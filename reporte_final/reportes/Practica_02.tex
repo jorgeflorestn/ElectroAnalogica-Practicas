@@ -1,6 +1,6 @@
 \clearpage
 
-subsection{Práctica 2: Fuente de corriente}
+\section{Práctica 2: Fuente de corriente}
 
 
 
@@ -16,14 +16,14 @@ La necesidad de desarollar una fuente de corriente es debido a que una señal qu
 
 \begin{figure}[h]
     \centering
-    \includegraphics[scale=0.2]{media/1024px-Zener_diode_symbol.svg.png}    
+    \includegraphics[scale=0.2]{media/1024px-Zener_diode_symbol.svg.png}
     \caption{Simbología del Diodo Zener.}
     \label{Fig: Simbologia del Diodo Zener}
 \end{figure}
 
 
-Es un diodo de silicio fuertemente dopado que es usado para las fuentes de voltaje y corriente debido a sus funciones 
-diferentes a lo de un diodo rectificador básico. La diferencia está en que, al administrar una alimentación inversa, 
+Es un diodo de silicio fuertemente dopado que es usado para las fuentes de voltaje y corriente debido a sus funciones
+diferentes a lo de un diodo rectificador básico. La diferencia está en que, al administrar una alimentación inversa,
 el diodo mantendrá una tensión constante. Esto servirá como un regulador de voltaje para la fuente de corriente.
 
 \subsection{Circuito}
@@ -38,9 +38,9 @@ A continuación de presentan el primer circuito, fundamento de esta práctica:
     \label{Fig: Fuente de corriente de 4.4 mA}
 \end{figure}
 
-Como se puede observar, este circuito cuenta con dos etapas, la de generación de corriente, y retroalimentación. La 
-etapa de generación de corriente consta de un lazo entre el Zener, la base y emisor del transistor y la resisencia de 
-1k \(\Omega\) . Al igualar a cero el lazo, podremos obtener la corriente de la resistencia y, por ende, de la salida de 
+Como se puede observar, este circuito cuenta con dos etapas, la de generación de corriente, y retroalimentación. La
+etapa de generación de corriente consta de un lazo entre el Zener, la base y emisor del transistor y la resisencia de
+1k \(\Omega\) . Al igualar a cero el lazo, podremos obtener la corriente de la resistencia y, por ende, de la salida de
 la fuente de corriente:
 \[ V_R + V_EB - V_Z = 0 \]
 \[ i(1k \Omega ) + 0.7V -5.1V = 0 \]
@@ -56,7 +56,7 @@ al mismo tiempo la salida de corriente.
 
 El siguiente circuito no es más que el mismo que el primer caso pero con la capacidad de modificar el valor de corriente de salida.
 Para ello, ante tanto valores constantes como el voltaje Zener y el voltaje emisor/base, dentro de la etapa de control se tiene
-que volver un valor cambiante la resistencia que antes era de 1 k \(\Omega\). Esto se logra en el arreglo mostrado en la imagen 
+que volver un valor cambiante la resistencia que antes era de 1 k \(\Omega\). Esto se logra en el arreglo mostrado en la imagen
 siguiente (página siguiente).
 
 \begin{figure}[htb]
@@ -90,8 +90,8 @@ cuando ocurra lo contrario.
 \end{figure}
 
 Como se puede obervar, parte de la alimentación de 24 V consta de un alimentador 5V el cual la provee un cargador de teléfono
-de 5V a 2A y de un conversor DC-DC tipo elevador, con entrada de 5V y salida a 24V para ambos casos de la práctica. Como 
-aclaración, se usó el mismo transistor para los dos casos. 
+de 5V a 2A y de un conversor DC-DC tipo elevador, con entrada de 5V y salida a 24V para ambos casos de la práctica. Como
+aclaración, se usó el mismo transistor para los dos casos.
 
 El caso A es el que está en el fondo del arreglo de placas de prueba, y el caso B es que tiene el potenciómetro que funciona
 como resistencia variable.
