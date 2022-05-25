@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1653493510 "c:/Users/IGNITER/Documents/UADY/Electronica ]Analógica/ElectroAnalogica-Practicas/Practica 1/main.tex" "main.pdf" "main" 1653493511
+["pdflatex"] 1653497227 "c:/Users/IGNITER/Documents/UADY/Electronica ]Analógica/ElectroAnalogica-Practicas/Practica 4/main.tex" "main.pdf" "main" 1653497228
   "C:/Users/IGNITER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1653376215 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/IGNITER/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1653376122 10247905 ff9eb47633c8fe0c0ebad76b00194e96 ""
   "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
@@ -22,8 +22,6 @@
   "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
-  "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
-  "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580393758 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575574700 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1645887246 147649 823237dc86e8acfaa45204ca8085a60e ""
@@ -79,14 +77,14 @@
   "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576437552 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575574882 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "build/Imagenes/Circuito1.jpg" 1653455968 57516 fe2304c56f7bddfe92dcbbfba0d38e18 ""
-  "build/Imagenes/CircuitoFin1.jpg" 1653493430 130672 2bf25486b9ccd471404f2c6451381912 ""
-  "build/Imagenes/CircuitoTH.jpg" 1653453320 29086 548bd2d9d1865611f8536d52234369e2 ""
-  "build/Imagenes/Resistencias.jpg" 1653456448 140453 b6ba23729a5db4f7518f51f481a04cd0 ""
-  "c:/Users/IGNITER/Documents/UADY/Electronica ]Analógica/ElectroAnalogica-Practicas/Practica 1/main.tex" 1653493508 7113 520029a9cb82725cc253e0d23eb24c14 ""
-  "main.aux" 1653493510 2571 b9ce4353ed9a842931ae8a63e785da13 "pdflatex"
-  "main.out" 1653493510 1472 e472be4ae95ecae7d7debc5af5e6e255 "pdflatex"
-  "main.tex" 1653493508 7113 520029a9cb82725cc253e0d23eb24c14 ""
+  "build/Imagenes/Fototransistor.jpg" 1653494692 32432 c4374b12b4dbf9ce41a6bff204efe2e4 ""
+  "build/Imagenes/Practica4.jpg" 1653495569 273611 6ca5edc29f92ff97fd947f330c65ffdd ""
+  "build/Imagenes/Rele-12V.jpg" 1653494453 34039 118acd1d6a981d324279154cff5b12d8 ""
+  "build/Imagenes/emisor.jpg" 1653494963 4373 313d5240849372695c547d8527543443 ""
+  "c:/Users/IGNITER/Documents/UADY/Electronica ]Analógica/ElectroAnalogica-Practicas/Practica 4/main.tex" 1653497225 4159 fc574571d3d8bf6b5d98b029c702826f ""
+  "main.aux" 1653497228 2540 624cfabb683efac590831c736a6e4280 "pdflatex"
+  "main.out" 1653497228 1123 c6dee3128ef57429ca38d60fd93aa3c4 "pdflatex"
+  "main.tex" 1653497225 4159 fc574571d3d8bf6b5d98b029c702826f ""
   (generated)
   "main.aux"
   "main.log"

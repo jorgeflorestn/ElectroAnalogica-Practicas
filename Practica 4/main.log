@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.24)  25 MAY 2022 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.24)  25 MAY 2022 11:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/IGNITER/Documents/UADY/Electronica ]Analógica/ElectroAnalogica-Practicas/Practica 1/main.tex"
-(c:/Users/IGNITER/Documents/UADY/Electronica ]Analógica/ElectroAnalogica-Practicas/Practica 1/main.tex
+**"c:/Users/IGNITER/Documents/UADY/Electronica ]Analógica/ElectroAnalogica-Practicas/Practica 4/main.tex"
+(c:/Users/IGNITER/Documents/UADY/Electronica ]Analógica/ElectroAnalogica-Practicas/Practica 4/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (C:\Users\IGNITER\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -344,55 +344,48 @@ LaTeX Info: Redefining \nameref on input line 17.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-<build/Imagenes/CircuitoTH.jpg, id=47, 376.40625pt x 179.16937pt>
-File: build/Imagenes/CircuitoTH.jpg Graphic file (type jpg)
-<use build/Imagenes/CircuitoTH.jpg>
-Package pdftex.def Info: build/Imagenes/CircuitoTH.jpg  used on input line 36.
-(pdftex.def)             Requested size: 376.40532pt x 179.16893pt.
+<build/Imagenes/Rele-12V.jpg, id=43, 803.0pt x 803.0pt>
+File: build/Imagenes/Rele-12V.jpg Graphic file (type jpg)
+<use build/Imagenes/Rele-12V.jpg>
+Package pdftex.def Info: build/Imagenes/Rele-12V.jpg  used on input line 33.
+(pdftex.def)             Requested size: 142.26378pt x 142.25475pt.
+<build/Imagenes/Fototransistor.jpg, id=44, 1003.75pt x 1003.75pt>
+File: build/Imagenes/Fototransistor.jpg Graphic file (type jpg)
+<use build/Imagenes/Fototransistor.jpg>
+Package pdftex.def Info: build/Imagenes/Fototransistor.jpg  used on input line 44.
+(pdftex.def)             Requested size: 142.26378pt x 142.25475pt.
+<build/Imagenes/emisor.jpg, id=45, 343.2825pt x 343.2825pt>
+File: build/Imagenes/emisor.jpg Graphic file (type jpg)
+<use build/Imagenes/emisor.jpg>
+Package pdftex.def Info: build/Imagenes/emisor.jpg  used on input line 50.
+(pdftex.def)             Requested size: 142.26378pt x 142.26053pt.
  [1
 
-{C:/Users/IGNITER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./build/Imagenes/CircuitoTH.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 90--92
-
- []
-
-[2]
-<build/Imagenes/Circuito1.jpg, id=65, 1088.065pt x 428.60126pt>
-File: build/Imagenes/Circuito1.jpg Graphic file (type jpg)
-<use build/Imagenes/Circuito1.jpg>
-Package pdftex.def Info: build/Imagenes/Circuito1.jpg  used on input line 99.
-(pdftex.def)             Requested size: 227.62204pt x 89.6623pt.
-<build/Imagenes/Resistencias.jpg, id=66, 1284.8pt x 892.33376pt>
-File: build/Imagenes/Resistencias.jpg Graphic file (type jpg)
-<use build/Imagenes/Resistencias.jpg>
-Package pdftex.def Info: build/Imagenes/Resistencias.jpg  used on input line 108.
-(pdftex.def)             Requested size: 227.62204pt x 158.08058pt.
-<build/Imagenes/CircuitoFin1.jpg, id=67, 531.9875pt x 946.53625pt>
-File: build/Imagenes/CircuitoFin1.jpg Graphic file (type jpg)
-<use build/Imagenes/CircuitoFin1.jpg>
-Package pdftex.def Info: build/Imagenes/CircuitoFin1.jpg  used on input line 114.
-(pdftex.def)             Requested size: 227.62204pt x 404.99509pt.
- [3
-
- <./build/Imagenes/Circuito1.jpg> <./build/Imagenes/Resistencias.jpg>] [4 <./build/Imagenes/CircuitoFin1.jpg>] [5] (main.aux
+{C:/Users/IGNITER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./build/Imagenes/Rele-12V.jpg>] [2 <./build/Imagenes/Fototransistor.jpg> <./build/Imagenes/emisor.jpg>]
+<build/Imagenes/Practica4.jpg, id=64, 1284.8pt x 721.69624pt>
+File: build/Imagenes/Practica4.jpg Graphic file (type jpg)
+<use build/Imagenes/Practica4.jpg>
+Package pdftex.def Info: build/Imagenes/Practica4.jpg  used on input line 84.
+(pdftex.def)             Requested size: 227.62204pt x 127.85146pt.
+ [3 <./build/Imagenes/Practica4.jpg>] (main.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E472BE4AE95ECAE7D7DEBC5AF5E6E255;1472.
+(rerunfilecheck)             Checksum: C6DEE3128EF57429CA38D60FD93AA3C4;1123.
  ) 
 Here is how much of TeX's memory you used:
- 10681 strings out of 478582
- 171023 string characters out of 2843400
- 486812 words of memory out of 3000000
- 28725 multiletter control sequences out of 15000+600000
+ 10671 strings out of 478582
+ 170864 string characters out of 2843400
+ 484837 words of memory out of 3000000
+ 28717 multiletter control sequences out of 15000+600000
  474334 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,7n,63p,448b,363s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (5 pages, 476849 bytes).
+ 60i,7n,63p,331b,363s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/IGNITER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on main.pdf (3 pages, 435950 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
