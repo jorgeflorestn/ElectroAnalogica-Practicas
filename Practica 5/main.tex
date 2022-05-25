@@ -85,20 +85,68 @@ en corriente alterna y electrónica de potencia.
 
 \begin{figure}
     \centering
-    \includegraphics[scale=0.5]{MOC3011.jpg}
+    \includegraphics[scale=0.15]{MOC3011.jpg}
     \caption{Diagrama del optoacoplador TRIAC MOC3011}
     \label{Fig: Diagrama del optoacoplador TRIAC MOC3011}
 \end{figure}
 
 \section{Circuito}
 
+El diagrama es el siguiente:
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.4]{Circuito.png}
+    \caption{Diagrama de la práctica}
+    \label{Fig: Diagrama de la práctica}
+\end{figure}
+
+Este circuito consta de 4 etapas: alimentación sin transformador (mencionado en la práctica anterior), entrada de información
+mediante el sistema emisor/receptor infrarrojo, bajo un arreglo de reistencia pull up, el biestable, y la salida analógica.
+
+En la etapa de entrada de información, se usan dos etapas de emisores infrarrojo que sustituye el uso de botones para 
+fines específicos.
+
+En el arreglo de salida al foco, se usa otro TRIAC el cual es el contacto directo con el cuministro del tomacorriente, puesto
+que el TRIAC instalado en el optoacoplador servirá únicamente como interruptor lógico.
 
 \section{Resultados}
 
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.4]{Circuito.png}
+    \caption{Circuito contruido}
+    \label{Fig: Circuito contruido}
+\end{figure}
 
+El circuito cumple con sus funciones y no sufre de caída de voltaje al usarlo para este caso. Tal como muestran en las 
+siguiente fotos.
 
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.4]{Resultados1.png}
+    \caption{Resultados de la práctica 1}
+    \label{Fig: Resultados de la practica 1}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.4]{Resultados2.png}
+    \caption{Resultados de la práctica 2}
+    \label{Fig: Resultados de la practica 2}
+\end{figure}
 
 \section{Conclusiones}
+El arreglo de emisor/receptor infrarrojo funciona como interruptor para activar y desactivar circuitos.
+
+Este arreglo puede utilizarse en sistemas de iluminación, audio, incluso para manipulación de datos y sistemas automáticos 
+e industriales.
+
+El biestable guarda en memoria el estado detectado por el SET o RESET y esto ayuda como un elemento de seguridad contra
+reacciones del circuito no esperadas.
+
+
+
 
 \printbibliography
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.28)  25 MAY 2022 14:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.28)  25 MAY 2022 15:48
 entering extended mode
 **"c:/Users/jorge/Documents/GitHub/ElectroAnalogica-Practicas/Practica 5/main.tex"
 (c:/Users/jorge/Documents/GitHub/ElectroAnalogica-Practicas/Practica 5/main.tex
@@ -712,8 +712,35 @@ Package pdftex.def Info: MC14013B.png  used on input line 71.
 File: MOC3011.jpg Graphic file (type jpg)
 <use MOC3011.jpg>
 Package pdftex.def Info: MOC3011.jpg  used on input line 88.
-(pdftex.def)             Requested size: 401.49902pt x 401.49902pt.
- [2 <./Biestable.jpg> <./MC14013B.png>] [3 <./MOC3011.jpg>] (c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 5\build\main.aux
+(pdftex.def)             Requested size: 120.4448pt x 120.4448pt.
+<Circuito.png, id=57, 679.338pt x 429.40425pt>
+File: Circuito.png Graphic file (type png)
+<use Circuito.png>
+Package pdftex.def Info: Circuito.png  used on input line 99.
+(pdftex.def)             Requested size: 271.73038pt x 171.75865pt.
+ [2 <./Biestable.jpg> <./MC14013B.png> <./MOC3011.jpg>]
+File: Circuito.png Graphic file (type png)
+<use Circuito.png>
+Package pdftex.def Info: Circuito.png  used on input line 117.
+(pdftex.def)             Requested size: 271.73038pt x 171.75865pt.
+<Resultados1.png, id=67, 317.988pt x 507.0945pt>
+File: Resultados1.png Graphic file (type png)
+<use Resultados1.png>
+Package pdftex.def Info: Resultados1.png  used on input line 127.
+(pdftex.def)             Requested size: 127.19293pt x 202.8342pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Resultados2.png, id=68, 317.38576pt x 452.28975pt>
+File: Resultados2.png Graphic file (type png)
+<use Resultados2.png>
+Package pdftex.def Info: Resultados2.png  used on input line 134.
+(pdftex.def)             Requested size: 126.95204pt x 180.91269pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <./Circuito.png>] [4 <./Resultados1.png> <./Resultados2.png>] (c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 5\build\main.aux
 LaTeX Info: Redefining \sptext on input line 31.
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
@@ -726,17 +753,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21328 strings out of 479321
- 376802 string characters out of 2856583
- 1194397 words of memory out of 3000000
- 38551 multiletter control sequences out of 15000+600000
+ 21359 strings out of 479321
+ 377449 string characters out of 2856583
+ 1194735 words of memory out of 3000000
+ 38574 multiletter control sequences out of 15000+600000
  409159 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,7n,74p,809b,2678s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/jorge/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jorge/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jorge/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jorge/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jorge/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jorge/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/jorge/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 5\build\main.pdf" (3 pages, 196732 bytes).
+Output written on "c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 5\build\main.pdf" (4 pages, 1276526 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 72 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 87 words of extra memory for PDF output out of 10000 (max. 10000000)
 
