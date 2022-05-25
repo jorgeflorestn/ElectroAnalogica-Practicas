@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber build/main"] 1653506240 "build/main.bcf" "build/main.bbl" "build/main" 1653511712
+["biber build/main"] 1653506240 "build/main.bcf" "build/main.bbl" "build/main" 1653513935
   "biblio5.bib" 1653505831 599 48bc6b8a859cfa3e1525255c196990be ""
   "build/main.bcf" 1653511711 123553 9c59010172fd9198cb225781f478b362 "pdflatex"
   "build\main.bcf" 1653511711 123553 9c59010172fd9198cb225781f478b362 ""
   (generated)
-  "build/main.blg"
   "build/main.bbl"
-["pdflatex"] 1653511703 "c:/Users/jorge/Documents/GitHub/ElectroAnalogica-Practicas/Practica 5/main.tex" "build/main.pdf" "main" 1653511712
+  "build/main.blg"
+["pdflatex"] 1653511703 "c:/Users/jorge/Documents/GitHub/ElectroAnalogica-Practicas/Practica 5/main.tex" "build/main.pdf" "main" 1653513935
   "Biestable.jpg" 1653504010 30269 7a91847f63e4b9baeaf2d030620207e3 ""
   "C:/Users/jorge/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1619643020 9524577 12afa6f8da24543e5ea0b2cb2fa4e8c2 ""
   "C:/Users/jorge/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1653491115 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
@@ -126,13 +126,13 @@
   "build/main.out" 1653511711 738 b707f08b440a48d799b2c7047248c73e "pdflatex"
   "build/main.run.xml" 1653511711 2356 76bcb6079cd248163e2dbc469bcd080b "pdflatex"
   "build/main.toc" 1653511711 866 ba645f5ec29e21e7b586a1e3240484f3 "pdflatex"
-  "c:/Users/jorge/Documents/GitHub/ElectroAnalogica-Practicas/Practica 5/main.tex" 1653511702 6177 9f0c0ea09387ab883823457134e20a26 ""
-  "main.tex" 1653511702 6177 9f0c0ea09387ab883823457134e20a26 ""
+  "c:/Users/jorge/Documents/GitHub/ElectroAnalogica-Practicas/Practica 5/main.tex" 1653513933 6177 9f0c0ea09387ab883823457134e20a26 ""
+  "main.tex" 1653513933 6177 9f0c0ea09387ab883823457134e20a26 ""
   (generated)
-  "build/main.out"
-  "build/main.aux"
-  "build/main.pdf"
+  "build/main.bcf"
   "build/main.log"
   "build/main.toc"
-  "build/main.bcf"
   "build/main.run.xml"
+  "build/main.pdf"
+  "build/main.aux"
+  "build/main.out"
