@@ -1,7 +1,7 @@
-PWD c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica
+PWD c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2
 INPUT C:\Users\jorge\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\main.tex
-OUTPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.log
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\main.tex
+OUTPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.log
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -17,6 +17,54 @@ INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
@@ -38,54 +86,72 @@ INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spani
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
@@ -453,6 +519,85 @@ INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uni
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
@@ -464,10 +609,10 @@ INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.aux
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.aux
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.aux
-OUTPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.aux
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.aux
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.aux
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.aux
+OUTPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.aux
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -483,25 +628,26 @@ INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstop
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
@@ -539,18 +685,86 @@ INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\ge
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
-OUTPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.pdf
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
-OUTPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+OUTPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.pdf
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+OUTPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-2020-10-01.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-2020-10-01.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-2020-10-01.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-2020-10-01.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-2020-10-01.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-2020-10-01.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-2020-10-01.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-2020-10-01.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-2020-10-01.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-2020-10-01.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-2020-10-01.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse-generic.tex
+OUTPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.bcf
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.bbl
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.bbl
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.bbl
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.bbl
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.bbl
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.bbl
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -564,23 +778,65 @@ INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.toc
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.toc
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.toc
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+OUTPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.toc
+INPUT .\1024px-Zener_diode_symbol.svg.png
+INPUT .\1024px-Zener_diode_symbol.svg.png
+INPUT 1024px-Zener_diode_symbol.svg.png
+INPUT .\1024px-Zener_diode_symbol.svg.png
+INPUT .\1024px-Zener_diode_symbol.svg.png
+INPUT .\1024px-Zener_diode_symbol.svg.png
+INPUT .\1024px-Zener_diode_symbol.svg.png
 INPUT C:\Users\jorge\AppData\Local\MiKTeX\pdftex\config\pdftex.map
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.aux
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
-INPUT c:\Users\jorge\Documents\Semestres equivalentes\Semestre 8_Ene_Jun2022\Electrónica Analógica\Reportes\Practica\build\main.out
+INPUT .\Screenshot 2022-05-25 012610.png
+INPUT .\Screenshot 2022-05-25 012610.png
+INPUT Screenshot 2022-05-25 012610.png
+INPUT .\Screenshot 2022-05-25 012610.png
+INPUT .\Screenshot 2022-05-25 012610.png
+INPUT .\Screenshot 2022-05-25 012610.png
+INPUT .\Screenshot 2022-05-25 012610.png
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT .\casoB.png
+INPUT .\casoB.png
+INPUT casoB.png
+INPUT .\casoB.png
+INPUT .\casoB.png
+INPUT .\casoB.png
+INPUT .\casoB.png
+INPUT .\casoB.png
+INPUT .\casoB.png
+INPUT casoB.png
+INPUT .\casoB.png
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.aux
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
+INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.run.xml
+OUTPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.run.xml
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
-INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
