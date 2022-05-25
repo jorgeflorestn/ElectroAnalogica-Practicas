@@ -3,15 +3,18 @@
 \usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
 \usepackage[spanish]{babel}
 \usepackage{csquotes}
+\usepackage{caption}
+\usepackage{subcaption}
 \usepackage{amsmath}
 \usepackage{graphicx}
-\usepackage[]{hyperref}
+\usepackage[hidelinks]{hyperref}
 \usepackage[spanish, nameinlink, noabbrev]{cleveref}
 \usepackage[style=apa]{biblatex}
 
 \addbibresource{referencias.bib}
+\decimalpoint
 
-\title{Práctica 6: Monoestable}
+\title{Práctica 7: Monoestable}
 \author{
     Flores Tun, Jorge David \\
     Lopez Gomez, Wilberth Eduardo \\
@@ -42,6 +45,7 @@ El LM555 es un dispositivo muy estable para generar retardos de tiempo precisos 
 El valor del tiempo que con el que va a trabajar el circuito es definido por medio de una resistencia y un capacitor, siguiendo la siguiente fórmula:
 \begin{equation}
     T = 1.1 R_A C_T
+    \label{Eq: ecuacion calculo del tiempo}
 \end{equation}
 
 El relé SRD-05VDC-Sl-C es  capaz de funcionar hasta con 10 A de corriente circulando a través de él. Está diseñado con un tamaño, principalmente, para su montura en computadoras. El plástico del que está hecho cuenta con una alta resistencia al calor y a sustancias químicas externas. Su funcionamiento se basa en un simple sistema compuesto por una bobina que permite el bajo costo y la producción masiva de este componente. De igual manera, posee dos salidas, para masyor flexibilidad: una normalmente abierta y una normalmente cerrada \parencite{alldatasheet_srd-05vdc-sl-c_nodate}.
@@ -50,10 +54,45 @@ El transistor BD135 está montado en el paquete de plástico SOT-32. Está dise�
 
 \section{Circuito}
 
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{media/circuito_07}
+    \caption{Circuito utilizado en la práctica 7.}
+    \label{Fig: Circuito utilizado en la practica 7}
+\end{figure}
 
+Tomando en cuenta \eqref{Eq: ecuacion calculo del tiempo} y los valores comerciales de capacitores y resistencias, se obtuvo que el capacitor debe tener un valor de 220 $\mu$F y la resistencia un valor de 82 k$\Omega$ para poder un lograr un tiempo de espera de 19.884 segundos, es decir, praćticamente 20 segundos.
 
 \section{Resultados}
+
+\begin{figure}[htb]
+    \centering
+    \begin{subfigure}[htb]{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{media/circuito_real_1}
+        \caption{}
+    \end{subfigure}
+    \centering
+    \begin{subfigure}[htb]{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{media/circuito_real_1}
+        \caption{}
+    \end{subfigure}
+    \centering
+    \begin{subfigure}[htb]{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{media/circuito_real_1}
+        \caption{}
+    \end{subfigure}
+    \caption{Fotografías del circuito realizado durante la práctica.}
+    \label{Fig: Fotografias del circuito realizado durante la practica}
+\end{figure}
+
+El tiempo del timer que se obtuvo sí fue de 20 segundos, esto debido a que seleccionamos un valor bastante cercano para el cálculo del tiempo de espera por medio de la resistencia y el capacitor, lo que nos permitió tener un valor exacto, aprovechando el LM555. Los valores que tuvimos que cambiar respecto al diagrama mostrado en clase, fueron los voltajes del sistema. En clase el diagrama tenía 5 V de entrada, más, debido al relé que era de 5 V como mínimo, optamos por usar 12 V para la alimenteación, asegurando que el relé siempre recibiera la energía necesaria para activarse cuando recibiera la señal del LM555.
+
 \section{Conclusiones}
+
+A pesar de que el LM555 es un timer que tiene dentro de sus características una gran valor de exactitud, el hecho de que no pueda hacerse reseteable lo hace un componente un poco complicado de utilizar en la vida real. Esto debido a que tener un sistema que, una vez accionado, no tenga manera de revertirse, a menos de que se corte la energía, no es realmente una forma de control. Es mejor tener un sistema que sea capaz de controlar este tiempo y poder detenerlo o, como mínimo, poder reiniciarlo, haciéndolo mucho más flexible e, incluso, seguro en sus aplicaciones en sistemas reales.
 
 \printbibliography
 
