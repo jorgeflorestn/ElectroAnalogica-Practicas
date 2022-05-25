@@ -1,0 +1,39 @@
+\documentclass{article}
+
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+\usepackage[spanish]{babel}
+\usepackage{csquotes}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
+\usepackage[spanish, nameinlink, noabbrev]{cleveref}
+\usepackage[style=apa]{biblatex}
+
+\addbibresource{referencias.bib}
+\decimalpoint
+
+\title{Reporte de prácticas}
+\author{
+    Flores Tun, Jorge David \\
+    Lopez Gomez, Wilberth Eduardo \\
+    Sánchez Soberanis, Felipe
+}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\input{reportes/practica_07.tex}
+\input{reportes/practica_08.tex}
+
+\newpage
+
+\addcontentsline{toc}{section}{Referencias}
+\printbibliography
+
+\end{document}
