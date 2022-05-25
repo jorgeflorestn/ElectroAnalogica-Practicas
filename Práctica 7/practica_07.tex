@@ -1,0 +1,60 @@
+\documentclass{article}
+
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+\usepackage[spanish]{babel}
+\usepackage{csquotes}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[]{hyperref}
+\usepackage[spanish, nameinlink, noabbrev]{cleveref}
+\usepackage[style=apa]{biblatex}
+
+\addbibresource{referencias.bib}
+
+\title{Práctica 6: Monoestable}
+\author{
+    Flores Tun, Jorge David \\
+    Lopez Gomez, Wilberth Eduardo \\
+    Sánchez Soberanis, Felipe
+}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\section{Introducción}
+
+Esta práctica consta de un timer LM555 que es usado como un oscilador monoestable. Este se conecta a un relé, el cuál controla el flujo de corriente hacia un foco de 60W, y un transistor BD135, el cual actúa como un switch para controlar el accionamiento del relé.
+
+El funcionamiento deseado de este circuito es que, después de accionar el botón, pasen 20 segundos, y el relé se accione, permitiendo el paso de corriente hacia el foco y, finalmente, este se encienda. Cabe aclarar que, debido al componente utilizado como timer, este sistema no es reiniciable, es decir, una vez que se presione el botón, no se puede volver a presionar con la intención de que el conteo de los 20 segundos comience de nuevo desde 0. La única de comenzar de nuevo el conteo desde 0 es esperar que pase el primer tiempo, se encieda el foco, y, entonces, se puede presionar el botón para volver a comenzar el ciclo.
+
+\section{Objetivos}
+
+Creación de un timer de 20 segundos con un LM555.
+
+\section{Marco teórico}
+
+El LM555 es un dispositivo muy estable para generar retardos de tiempo precisos u oscilación. Terminales adicionales son previstas para el disparo o el reajuste si se desea. En el modo de funcionamiento de retardo de tiempo, el tiempo es controlado con precisión por una resistencia externa y capacitor. Para un funcionamiento estable como oscilador, la frecuencia de funcionamiento libre y el ciclo de trabajo se controlan con dos resistencias externas y un condensador. El circuito puede ser disparado y reiniciado en formas de onda descendentes, y el circuito de salida puede o producir hasta 200 mA o manejar circuitos TTL \parencite{texas_instruments_lm555_2015}.
+
+El valor del tiempo que con el que va a trabajar el circuito es definido por medio de una resistencia y un capacitor, siguiendo la siguiente fórmula:
+\begin{equation}
+    T = 1.1 R_A C_T
+\end{equation}
+
+El relé SRD-05VDC-Sl-C es  capaz de funcionar hasta con 10 A de corriente circulando a través de él. Está diseñado con un tamaño, principalmente, para su montura en computadoras. El plástico del que está hecho cuenta con una alta resistencia al calor y a sustancias químicas externas. Su funcionamiento se basa en un simple sistema compuesto por una bobina que permite el bajo costo y la producción masiva de este componente. De igual manera, posee dos salidas, para masyor flexibilidad: una normalmente abierta y una normalmente cerrada \parencite{alldatasheet_srd-05vdc-sl-c_nodate}.
+
+El transistor BD135 está montado en el paquete de plástico SOT-32. Está diseñado para amplificadores y controladores de audio que utilizan circuitos complementarios o cuasi-complementarios. Soporta una corriente de base máxima de 500 mA, así como un voltaje emisor-base de 5 V. La ganancia de corriente de este transistor varía dependiendo de la corriente del collector y el voltaje colector-emisor. Posee una ganancia de corriente continua de 250, cuando se utiliza en sus condiciones ideales, es decir, 150 mA de corriente en el colector y 2 V de voltaje colector-emisor \parencite{stmicroelectronics_bd135_nodate}.
+
+\section{Circuito}
+
+
+
+\section{Resultados}
+\section{Conclusiones}
+
+\printbibliography
+
+\end{document}
