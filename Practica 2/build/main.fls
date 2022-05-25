@@ -816,6 +816,14 @@ INPUT .\IMG_20220303_191602.jpg
 INPUT .\IMG_20220303_191602.jpg
 INPUT .\IMG_20220303_191602.jpg
 INPUT .\IMG_20220303_191602.jpg
+INPUT .\imagen2.jpg
+INPUT .\imagen2.jpg
+INPUT imagen2.jpg
+INPUT .\imagen2.jpg
+INPUT .\imagen2.jpg
+INPUT .\imagen2.jpg
+INPUT .\imagen2.jpg
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.aux
 INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
 INPUT c:\Users\jorge\Documents\GitHub\ElectroAnalogica-Practicas\Practica 2\build\main.out
@@ -843,3 +851,5 @@ INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\jorge\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb

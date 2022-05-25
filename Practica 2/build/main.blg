@@ -1,9 +1,14 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'build\main.blg'
-[314] biber-MSWIN64:340> INFO - === 
-[467] Biber.pm:415> INFO - Reading 'build\main.bcf'
-[971] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[998] Utils.pm:395> WARN - The file 'build\main.bcf' does not contain any citations!
-[1039] bbl.pm:654> INFO - Writing 'build\main.bbl' with encoding 'UTF-8'
-[1040] bbl.pm:757> INFO - Output to build\main.bbl
-[1040] Biber.pm:128> INFO - WARNINGS: 1
+[1] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is 'build\main.blg'
+[882] biber-MSWIN64:340> INFO - === 
+[1038] Biber.pm:415> INFO - Reading 'build\main.bcf'
+[1845] Biber.pm:952> INFO - Found 1 citekeys in bib section 0
+[1915] Biber.pm:4340> INFO - Processing section 0
+[1956] Biber.pm:4531> INFO - Looking for bibtex format file 'biblio.bib' for section 0
+[2131] bibtex.pm:1689> INFO - LaTeX decoding ...
+[2143] bibtex.pm:1494> INFO - Found BibTeX data source 'biblio.bib'
+[2304] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2305] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2306] Biber.pm:4168> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[2315] bbl.pm:654> INFO - Writing 'build\main.bbl' with encoding 'UTF-8'
+[2321] bbl.pm:757> INFO - Output to build\main.bbl

@@ -16,5 +16,55 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{routimo2007comparison}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b883a95abe06ae658c7495a084908667}{%
+           family={Routimo},
+           familyi={R\bibinitperiod},
+           given={Mikko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1c3efc37d6cbba3158d0d959f069d86}{%
+           family={Salo},
+           familyi={S\bibinitperiod},
+           given={Mika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f4ca132a538666f68e9851265e2eb5c}{%
+           family={Tuusa},
+           familyi={T\bibinitperiod},
+           given={Heikki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{1291574dc6fa5ea7de30cbd12cbbaa4f}
+      \strng{fullhash}{f576d4d824c69610612cabed4af64322}
+      \strng{bibnamehash}{f576d4d824c69610612cabed4af64322}
+      \strng{authorbibnamehash}{f576d4d824c69610612cabed4af64322}
+      \strng{authornamehash}{1291574dc6fa5ea7de30cbd12cbbaa4f}
+      \strng{authorfullhash}{f576d4d824c69610612cabed4af64322}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Power Electronics}
+      \field{number}{2}
+      \field{title}{Comparison of voltage-source and current-source shunt active power filters}
+      \field{volume}{22}
+      \field{year}{2007}
+      \field{pages}{636\bibrangedash 643}
+      \range{pages}{8}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

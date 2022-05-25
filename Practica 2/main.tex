@@ -12,7 +12,7 @@
 \usepackage[style=apa]{biblatex}
 
 
-\addbibresource{referencias.bib}
+\addbibresource{biblio.bib}
 \decimalpoint
 
 
@@ -33,7 +33,7 @@ La fuente de corriente es un circuito capaz de entregar un cantidad de corriente
 
 La simbología de esta fuente es una flecha, y su direción inidica el signo del valor sobre todo el sistema teniendo en cuenta la tierra o común.
 
-La necesidad de desarollar una fuente de corriente es debido a que una señal que es transmitida en variación de corriente tiene mucha presición y con menos ruido que con otra mediante variación de voltaje.
+La necesidad de desarollar una fuente de corriente es debido a que una señal que es transmitida en variación de corriente tiene mucha presición y con menos ruido que con otra mediante variación de voltaje \parencite{routimo2007comparison}.
 
 \section{Marco teórico}
 \subsubsection*{Diodo Zener}
@@ -58,7 +58,7 @@ A continuación de presentan el primer circuito, fundamento de esta práctica:
 \begin{figure}[h]
     \centering
     \includegraphics[scale=0.35]{Screenshot 2022-05-25 012610.png}
-    \caption{Fuente de corrienre de 4.4mA}
+    \caption{Fuente de corriente de 4.4mA}
     \label{Fig: Fuente de corriente de 4.4 mA}
 \end{figure}
 
@@ -101,15 +101,39 @@ cuando ocurra lo contrario.
 
 \begin{figure}[htb]
     \centering
-    \includegraphics[scale=0.25]{IMG_20220303_191602.jpg}
+    \includegraphics[scale=0.1]{IMG_20220303_191602.jpg}
     \caption{Desarrollo de práctica}
-    \label{Fig: Desarrollo del ejercicios}
+    \label{Fig: Desarrollo de práctica 1}
 \end{figure}
 
-Como se puede obervar, la 
+\begin{figure}[htb]
+    \centering
+    \includegraphics[scale=0.05]{imagen2.jpg}
+    \caption{Desarrollo de práctica 2}
+    \label{Fig: Desarrollo de práctica 2}
+\end{figure}
+
+Como se puede obervar, parte de la alimentación de 24 V consta de un alimentador 5V el cual la provee un cargador de teléfono
+de 5V a 2A y de un conversor DC-DC tipo elevador, con entrada de 5V y salida a 24V para ambos casos de la práctica. Como 
+aclaración, se usó el mismo transistor para los dos casos. 
+
+El caso A es el que está en el fondo del arreglo de placas de prueba, y el caso B es que tiene el potenciómetro que funciona
+como resistencia variable.
+
+Como resultados, para el caso A, se logró obtener una resisencia de 4.4 mA, así como para el caso B el cual es capaz de entregar
+corriente con valores de entre 4 y 20 mA.
+
 
 \section{Conclusiones}
+La fuente de corriente no es una fuente como tal, si no un arreglo que modifica el potencial de la salida del multímetro
+para entregar una corriente constante o una señal de corriente.
 
+Con este arreglo es posible enviar señales eléctricas mediante manipulación de corriente.
 
+Al usar arreglos de resistencias es posible llevar este concepto a los sistemas de comunicación, y de situar el arrglo como
+un emisor o receptor de información, usando transductores, puente de Wheatstone para recibir información en sistemas de
+intrumentación a nivel industrial.
+
+\printbibliography
 
 \end{document}
